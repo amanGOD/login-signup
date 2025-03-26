@@ -19,7 +19,7 @@ login-signup-form/
 ## Installation
 1. Clone this repository or download the ZIP file.
    ```sh
-   git clone https://github.com/yourusername/login-signup-form.git
+   git clone https://github.com/amanGOD/login-signup.git
    ```
 2. Open the project folder.
 3. Open `index.html` in a web browser to view the form.
